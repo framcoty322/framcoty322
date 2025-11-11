@@ -4,7 +4,7 @@ I am a cybersecurity student and Ethical Hacking enthusiast based in Bolivia, fo
 
 - 💼 **Professional Profile:** [My LinkedIn](https://www.linkedin.com/in/franco-aparicio-004a7b292/)
 - 🥷 **HTB Profile:** [My Hack The Box](https://app.hackthebox.com/profile/2054668)
-- 📫 **How to reach me:** [tu.email.profesional@gmail.com](mailto:tu.email.profesional@gmail.com)
+
 
 ---
 
