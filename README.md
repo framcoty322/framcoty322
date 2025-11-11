@@ -1,4 +1,4 @@
-# Hi there, I'm Franco Aparicio 👋
+# Hi there, I'm Franco Aparicio 
 
 I am a cybersecurity student and Ethical Hacking enthusiast based in Bolivia, focusing on Penetration Testing and Red Teaming.
 
