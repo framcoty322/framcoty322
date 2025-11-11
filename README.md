@@ -1,37 +1,36 @@
-# ¡Bienvenido! 👋 Soy Franco Aparicio
+# Hi there, I'm Franco Aparicio 👋
 
-Soy un estudiante de Hacking Ético y un entusiasta de la ciberseguridad enfocado en Pentesting y Red Team, actualmente basado en Bolivia.
+I am a cybersecurity student and Ethical Hacking enthusiast based in Bolivia, focusing on Penetration Testing and Red Teaming.
 
-Estoy buscando activamente mi primera oportunidad profesional en un rol remoto como **Pentester Junior** o **Analista de SOC Nivel 1**, con interés especial en mercados de Norteamérica y Europa.
-
-- 📫 **Contacto:** [tu.email.profesional@gmail.com](mailto:tu.email.profesional@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/franco-aparicio-004a7b292](https://linkedin.com/in/franco-aparicio-004a7b292)
+- 💼 **Professional Profile:** [My LinkedIn](https://www.linkedin.com/in/franco-aparicio-004a7b292/)
+- 🥷 **HTB Profile:** [My Hack The Box](https://app.hackthebox.com/profile/2054668)
+- 📫 **How to reach me:** [tu.email.profesional@gmail.com](mailto:tu.email.profesional@gmail.com)
 
 ---
 
-### 🏆 Logros y Certificaciones
+### 🏆 Key Achievements & Certifications
 
-| Plataforma | Logro |
+| Platform | Achievement |
 |---|---|
-| 🥷 **Hack The Box** | **81 máquinas** ([Ver Perfil](https://app.hackthebox.com/profile/2054668)) |
-| 🥷 **HTB Pro Lab** | Certificado en **Dante Pro Lab** |
-| 🥷 **HTB CTFs** | 3 participaciones destacadas |
-| 📚 **Academia S4vitar** | [Nombre de tu Certificación 1] |
-| 📚 **Academia S4vitar** | [Nombre de tu Certificación 2] |
+| 🥷 **Hack The Box** | **Dante Pro Lab Certified** |
+| 🥷 **Hack The Box** | **81+ Machines** Owned |
+| 🥷 **HTB CTF** | **Ranked 31st** / 156 (Bugcrowd Student Qualifier) |
+| 📚 **S4vitar Academy** | Hacking Introduction Certified |
+| 📚 **S4vitar Academy** | Linux Environment Customization Certified |
 
 ---
 
-### 🔧 Habilidades Técnicas Clave
+### 🔧 My Tech Stack & Key Skills
 
 * **Pentesting:** Nmap, Metasploit, Burp Suite, Wireshark, John the Ripper, Hashcat
-* **Redes:** WireGuard, OpenVPN, Configuración de Routers, Análisis de tráfico
-* **Hardware Hacking:** Raspberry Pi, Antenas WiFi
-* **Sistemas:** Linux (Kali, Parrot), Windows, Active Directory (Básico)
-* **Scripting:** Bash, Python (Básico)
+* **Networking:** WireGuard, OpenVPN, Router Configuration, Network Analysis
+* **Systems:** Linux (Kali, Debian, Arch), Windows, Active Directory (Basic)
+* **Hardware:** Raspberry Pi, WiFi Adapters
+* **Scripting:** Bash, Python (Basic)
 
 ---
 
-### 🛠️ Proyectos Destacados
+### 🛠️ Featured Projects
 
-* **[vpn-wireguard-rpi-gateway](https://github.com/framcoty322/vpn-wireguard-rpi-gateway):** Un "implant" de Red Team usando una Raspberry Pi y WireGuard para simular acceso remoto persistente (Inspirado en Mr. Robot).
-* **[HTB-Writeups](https://github.com/framcoty322/HTB-Writeups):** (Próximamente) Mi metodología y notas sobre la resolución de máquinas en Hack The Box.
+* **[vpn-wireguard-rpi-gateway](https://github.com/framcoty322/vpn-wireguard-rpi-gateway):** A Red Team "implant" project using a Raspberry Pi as a persistent remote access VPN gateway. (Inspired by Mr. Robot).
+* **[HTB-Writeups](https://github.com/framcoty322/HTB-Writeups):** (Coming Soon) My methodologies and notes for various Hack The Box machines.
