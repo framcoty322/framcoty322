@@ -33,4 +33,4 @@ I am a cybersecurity student and Ethical Hacking enthusiast based in Bolivia, fo
 ### 🛠️ Featured Projects
 
 * **[vpn-wireguard-rpi-gateway](https://github.com/framcoty322/vpn-wireguard-rpi-gateway):** A Red Team "implant" project using a Raspberry Pi as a persistent remote access VPN gateway. (Inspired by Mr. Robot).
-* **[HTB-Writeups](https://github.com/framcoty322/HTB-Writeups):** (Coming Soon) My methodologies and notes for various Hack The Box machines.
+* **[HTB-Writeups](https://github.com/framcoty322/HTB-Writeups):** My methodologies and notes for various Hack The Box machines.
