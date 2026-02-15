@@ -13,7 +13,7 @@ I am a cybersecurity student and Ethical Hacking enthusiast based in Bolivia, fo
 | Platform | Achievement |
 |---|---|
 | 🥷 **Hack The Box** | **Dante Pro Lab Certified** |
-| 🥷 **Hack The Box** | **81+ Machines** Owned |
+| 🥷 **Hack The Box** | **100+ Machines** Owned |
 | 🥷 **HTB CTF** | **Ranked 31st** / 156 (Bugcrowd Student Qualifier) |
 | 📚 **S4vitar Academy** | Hacking Introduction Certified |
 | 📚 **S4vitar Academy** | Linux Environment Customization Certified |
